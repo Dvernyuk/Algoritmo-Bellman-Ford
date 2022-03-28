@@ -1,0 +1,2 @@
+C:\Users\Dima\Desktop\C++\MARP\Grafo_Ej8\Debug\Grafo_Ej8.exe
+C:\Users\Dima\Desktop\C++\MARP\Grafo_Ej8_Bellman_Ford\Debug\Grafo_Ej8.exe
